@@ -78,6 +78,7 @@ nav .menu{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 #banner .banner-content{
     max-width: 585px;
@@ -105,7 +106,7 @@ nav .menu{
 }
 #banner .banner-image image{
     max-width: 100px;
-    vertical-align: middle;
+    vertical-align:auto;
 
 }
 #about{
